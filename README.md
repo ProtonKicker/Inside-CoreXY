@@ -20,3 +20,4 @@ For extra images, visit the ![Pictures](pictures) folder.
 
 #### License
 CC BY-SA
+  Feel free to remix and use it commercially. And remember to publish it under the same license!
