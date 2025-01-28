@@ -12,7 +12,7 @@ The system requires the same input as the standard CoreXY system.
 Interactive online preview (Onshape): 
 https://t.co/4vBid4g13n
 
-Image explanations (the dark blue and dark red dots means the motor pulley):
+Image explanations (the dark blue and dark red dots mean the motor pulley):
 ![Inside CoreXY configuration](https://github.com/ProtonKicker/Inside-CoreXY/blob/main/pictures/Inside%20CoreXY/Inside%20CoreXY.jpg)
 ![Cantilever CoreXZ configuration](https://github.com/ProtonKicker/Inside-CoreXY/blob/main/pictures/Cantilever%20CoreXZ/Cantilever%20CoreXZ.png)
 
