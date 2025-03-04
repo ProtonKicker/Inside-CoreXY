@@ -19,5 +19,5 @@ Image explanations (the dark blue and dark red dots mean the motor pulley):
 For extra images, visit the ![Pictures](pictures) folder.
 
 #### License
-CC BY-SA
-  Feel free to remix and use it commercially. And remember to publish it under the same license!
+CC BY-SA NC
+  Feel free to remix and use it commercially though (just contact me I'll mark it down). And remember to publish it under the same license!
