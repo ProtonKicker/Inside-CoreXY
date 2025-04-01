@@ -25,5 +25,5 @@ CC BY-NC-SA
 
 
 ## Notes:
-Apr 1, 2025: I am so glad to see that I'm not the first one that came up with this idea. Here's a project from 3 years ago that utilize CoreXZ on a cantilever 3D printer: https://github.com/jomettler/KP3s-coreXZ
+Apr 1, 2025: I am so glad to see that I'm not the first one that came up with this idea. Here's a project from 3 years ago that utilizes CoreXZ on a cantilever 3D printer. It's kinda simpler then my approach here: https://github.com/jomettler/KP3s-coreXZ
 
